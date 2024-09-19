@@ -1,0 +1,34 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[EventCategories] (Table)
+       [dbo].[EventRegistrations] (Table)
+       [dbo].[Events] (Table)
+       [dbo].[FK_Events] (Clé étrangère)
+       Clé étrangère: contrainte sans nom sur [dbo].[Events] (Clé étrangère)
+       [dbo].[AddEvent] (Procédure)
+       [dbo].[AddEventCategory] (Procédure)
+       [dbo].[DeleteEvent] (Procédure)
+       [dbo].[DeleteEventCategory] (Procédure)
+       [dbo].[DeleteRegistration] (Procédure)
+       [dbo].[GetAllEvents] (Procédure)
+       [dbo].[GetEventCategories] (Procédure)
+       [dbo].[GetregistrationsForEvent] (Procédure)
+       [dbo].[RegisterForEvent] (Procédure)
+       [dbo].[UpdateEvent] (Procédure)
+       [dbo].[UpdateEventCategory] (Procédure)
+       [dbo].[UpdateRegistration] (Procédure)
+
+** Actions de support
+
+Les bases de données du projet et cible ont des paramètres de classement différents. Des erreurs de déploiement peuvent se produire.
+

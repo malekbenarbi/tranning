@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|c:\\users\\lenovo\\source\\repos\\webformapp\\addevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|solutionrelative:addevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|C:\\Users\\LENOVO\\source\\repos\\webformapp\\eventregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|solutionrelative:eventregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|C:\\Users\\LENOVO\\source\\repos\\webformapp\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|solutionrelative:addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|C:\\Users\\LENOVO\\source\\repos\\webformapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|C:\\Users\\LENOVO\\source\\repos\\webformapp\\eventregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB1AC93-9EF4-4486-93A7-1884189715F6}|webformapp.csproj|solutionrelative:eventregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ADEC39-E55A-4BCB-B14D-653740C79DE1}|..\\database\\TrainingDemoDB.sqlproj|C:\\Users\\LENOVO\\source\\repos\\database\\Code\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ADEC39-E55A-4BCB-B14D-653740C79DE1}|..\\database\\TrainingDemoDB.sqlproj|C:\\Users\\LENOVO\\source\\repos\\database\\Code\\EventRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEvent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\AddEvent.aspx.cs",
+              "RelativeDocumentMoniker": "AddEvent.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\AddEvent.aspx.cs",
+              "RelativeToolTip": "AddEvent.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:56:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEvent.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\AddEvent.aspx",
+              "RelativeDocumentMoniker": "AddEvent.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\AddEvent.aspx",
+              "RelativeToolTip": "AddEvent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-18T13:15:54.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\database\\Code\\Event.cs",
+              "RelativeDocumentMoniker": "..\\database\\Code\\Event.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\database\\Code\\Event.cs",
+              "RelativeToolTip": "..\\database\\Code\\Event.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:51:21.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T14:33:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventRegistration.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\EventRegistration.aspx",
+              "RelativeDocumentMoniker": "EventRegistration.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\EventRegistration.aspx",
+              "RelativeToolTip": "EventRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-18T10:30:20.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventRegistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\EventRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "EventRegistration.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\webformapp\\EventRegistration.aspx.cs",
+              "RelativeToolTip": "EventRegistration.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:58:50.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\database\\Code\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "..\\database\\Code\\EventRegistration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\database\\Code\\EventRegistration.cs",
+              "RelativeToolTip": "..\\database\\Code\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:59:13.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

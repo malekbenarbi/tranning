@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\database\bin\Debug\TrainingDemoDB.dacpac
+C:\Users\LENOVO\source\repos\database\bin\Debug\database.dll
+C:\Users\LENOVO\source\repos\database\bin\Debug\database.pdb
+C:\Users\LENOVO\source\repos\database\obj\Debug\TrainingDemoDB.sqlproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\database\obj\Debug\database.dll
+C:\Users\LENOVO\source\repos\database\obj\Debug\database.pdb
